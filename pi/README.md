@@ -1,7 +1,9 @@
-![ROKOS-OK](http://i.imgur.com/BluqVIE.png)
-ROKOS IoT Bitcoin and Cryptocurrencies Fullnode Open Source
+![ROKOS-OK](https://i.imgur.com/i5xr6Y2.png)
+
+ROKOS • Bitcoin Full node OS IoT Open Source
 =========================== 
-* Integrated Cryptocurrencies Compiled Nodes-Clients on ROKOS for Pi zero 2 & 3
+* Integrated Cryptocurrencies Compiled Nodes-Clients on ROKOS • Bitcoin Full node OS [core/flavors] for Pi zero 2, 3, 4
+
 
 #### If you need further support or want to say hi to the community you can join:
 
