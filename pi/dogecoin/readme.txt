@@ -1,0 +1,1 @@
+Dogecoin v1.14.2
