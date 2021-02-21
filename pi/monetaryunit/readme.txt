@@ -1,1 +1,1 @@
-Monetary Unit v2.1.4
+Monetary Unit v2.2

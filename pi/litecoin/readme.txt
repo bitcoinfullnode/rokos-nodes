@@ -1,1 +1,1 @@
-Litecoin v0.17.1
+Litecoin v0.18.1

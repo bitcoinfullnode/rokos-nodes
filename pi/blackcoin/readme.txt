@@ -1,1 +1,1 @@
-Blackcoin more v2.13.2.4
+Blackcoin more v2.13.2.7
